@@ -1,6 +1,6 @@
 ## Build your own everything
 
-   ![](https://github.com/flightstar/IT-Secret/blob/master/Assets/Donald-Knuth.PNG?raw=true)
+   ![](/Images/Donald-Knuth.png)
 
 + Computer software = language in which a computer speaks
 + Computer forms the heart of computer software 
