@@ -3,10 +3,7 @@
    ![](/Images/Donald-Knuth.png)
 
 + Computer software = language in which a computer speaks
-+ Computer forms the heart of computer software 
-+ computer = the collection of computer programs, procedures, documentation that performs different tasks on a computer system
-+ Nơi nào có phủ sóng internet, mã hóa internet, có truyền dữ liệu thì có thể sử dụng satellite community, network community, hardware phá mã,phần cứng dùng để hack - phần mềm tương đương với phần cứng để hack hệ thống
-+ Nơi nào có wifi phủ sóng rộng khắp thì có thể dùng máy không người lái để tuần tra thành phố
+
 ### Table of content
 * [Radar](#radar)
 * [Continuous integration](#continuous-integration)
@@ -20,38 +17,16 @@
 * [Biodigital 3D Human Simulator](#biodigital-3d-human-simulator)
 * [Motion Sensor Technology](#motion-sensor-technology)
 * [System Software](#system-software)
-
-  Là phần mềm quản lý resource của toàn bộ máy tính và hỗ trợ thực thi các loại chương trình ứng dụng. VD; Hệ điều hành, trình biên dịch, editors, drivers,...
-  
 * [Networking and Web Applications Software](#networking-and-web-applications-software)
-  Là các ngôn ngữ lập trình và phần mềm liên quan đến việc hỗ trợ, quản lý và cấu hình các loại mạng, internet, hệ thống mạng,...
-
 * [Embedded Software](#embedded-software)
-
-
 * [Reservation Software](#reservation-software)
-
-
 * [Business Software](#business-software)
-
-
 * [Entertainment Software](#entertainment-software)
-
-
 * [Artificial Intelligence Software](#artificial-intelligence-software)
-
-
 * [Science Software](#science-software)
-
-
 * [Utilities Software](#utilities-software)
-
-
 * [Business Management Software](#business-management-software)
-
 * [Internet of Things](#internet-of-things)
-
-
 * [Network](#network)
 * [Very Large Scale Integration](#very-large-scale-integration)
 * [Hardware](#hardware)
