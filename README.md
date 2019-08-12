@@ -180,7 +180,17 @@ theo thư mục, chủ đề:
   + [UDEMY](https://www.udemy.com/)
   + [FUTURE LEARN](https://www.futurelearn.com/)
   + [Openstax](https://openstax.org/subjects)
-
+  + [Tạp chí khoa học Việt Nam Trực tuyến](http://www.vjol.info/index.php/index/about/)
+* [Thư viện số chuyên về Luận án MIT](https://dspace.mit.edu/)
+* [Patent Search](http://patft.uspto.gov/)
+* [Patent Google Search](https://patents.google.com/)
+* [Thư viện trường Đại học Công Nghệ TP.Hồ Chí Minh](http://lib.hutech.edu.vn/SitePages/home.aspx)
+* [Thư viện Trung tâm ĐHQG-HCM](http://www.vnulib.edu.vn/)
+* [Thư viện trường Đại học Bách Khoa TP.Hồ Chí Minh](http://www.lib.hcmut.edu.vn/)
+* [Thư viện trường Đại học Kinh tế TP.HCM](http://www.lib.ueh.edu.vn/)
+* [Thư viện trường Đại học giao thông vận tải](http://thuvien.ut.edu.vn/)
+* [Thư viện Trường ĐH Khoa học Tự nhiên](http://gralib.hcmuns.edu.vn/opac/simpleSearch_khtn_index.jsp)
+* [Nguồn học liệu mở ĐẠI HỌC QUỐC GIA HÀ NỘI](http://repository.vnu.edu.vn/)
 * Các trang web truy cập miễn phí tài liệu hữu ích:
 
 
