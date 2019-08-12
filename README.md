@@ -102,6 +102,41 @@
 * [Web Server](#build-your-own-web-server)
 * [Uncategorized](#uncategorized)
 
+### Tìm kiếm thông tin trên Internet
+
+#### Một số máy tìm kiếm:
++ [Google]()
++ [AltaVista]()
++ [Teoma]()
++ [alltheweb]()
++ [Ask]()
++ [Askjeeves]()
+
+#### Một số máy tìm kiếm liên thông (Tìm khoảng 10% kết quả trên các cỗ máy tìm kiếm mà họ liên kết):
++ [SurfWax](http://www.surfwax.com)
++ [Ixquick](https://www.startpage.com/)
++ [Metacrawler](http://www.metacrawler.com)
+
+#### Phát triển ngân hàng tư liệu của bản thân
+Có nhiều cách để lưu lại các địa chỉ web hữu ích để tạo ngân hàng dữ liệu/cổng thông tin cá nhân bằng cách tổ chức thông tin theo một trật tự logic, phân loại
+theo thư mục, chủ đề:
++ Sử dụng công cụ **Bookmark (trong Firefox, Chrome)** hoặc **Favorites (trong IE)**
++ Lưu thành các danh mục trong các công cụ soạn thảo như Word hoặc Excel:
+  
+    |                                  | **Các trang web về vấn đề phát triển** |                                    |
+	|------------------------------------|------------------------------------|------------------------------------|
+	| **Tin tức về phát triển**          | **Các cổng thông tin phát triển**  | **Các ấn phẩm và báo cáo học thuật**|
+	| [SciDevNet](http://www.scidev.net/) | [Development Gateway](http://www.developmentgateway.org/) | [Google Scholar](http://scholar.google.com/) |
+	| [UN News Centre](http://www.un.org/News) | [MekongInfo](http://www.mekonginfo.org/) | [EconPaper](http://econpapers.repec.org/) |
+	|                                    | [Social Science Information Gateway](http://www.sosig.ac.uk/) | [NBER Economic Papers](http://papers.nber.org/papers/) |
+	|                                    |                                    | [Social Science Research Network](http://www.ssrn.com/)    |
+	|                                    |                                    | [Social Science Research Council](http://www.ssrc.org/)    |
+	|                                    |                                    | [World Bank Documents and Reports](http://www-wds.worldbank.org/)   |
+	|                                    |                                    | [Asian Development Bank Publication](http://www.adb.org/Publications) |
+  
+
+### Internet
+
 ## Information Resource
 * [Mạng liên kết thông tin khoa học và công nghệ TPHCM](http://www.stinet.gov.vn)
 * [OER Commons](https://www.oercommons.org/)
@@ -110,7 +145,22 @@
 * [ITU-ILibrary](https://www.itu-ilibrary.org/) - Thư viện điện tử của  Liên minh Viễn thông quốc tế
 * [Thư viện điện tử của Ngân hàng Thế giới](https://elibrary.worldbank.org/)
 * [Paris Tech](https://www.paristech.org/)
+* Danh sách các trang web học liệu mở Việt Nam và học liệu mở thế giới:
+  + [Mạng Giáo dục EDUNET](http://edu.net.vn/media/)
+  + [Thư viện HỌC LIỆU MỞ VIỆT NAM](http://voer.edu.vn/)
+  + [Chương trình giảng dạy kinh tế Fulbright](http://www.fetp.edu.vn/vn/hoc-lieu-mo-fetp/hoc-lieu-mo-fetp/)
+  + [MIT OpenCoursewwave](https://ocw.mit.edu/)
+  + [COURSERA](https://www.coursera.org/)
+  + [EDX](https://www.edx.org/)
+  + [UDEMY](https://www.udemy.com/)
+  + [FUTURE LEARN](https://www.futurelearn.com/)
+  + [Openstax](https://openstax.org/subjects)
+
+* Các trang web truy cập miễn phí tài liệu hữu ích:
+
+
 ## Tutorials
+
 #### Radar
 + https://github.com/thoughtworks/build-your-own-radar
 + https://hackaday.com/2012/04/28/build-your-own-radar-system/
