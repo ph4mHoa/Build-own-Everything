@@ -106,17 +106,41 @@
 ## Tìm kiếm thông tin trên Internet
 
 #### Một số máy tìm kiếm:
-+ [Google]()
-+ [AltaVista]()
-+ [Teoma]()
-+ [alltheweb]()
-+ [Ask]()
-+ [Askjeeves]()
++ [Google](http://www.google.com/)
++ [Shodan](https://www.shodan.io/)
++ [Yandex](https://yandex.com/)
++ [Baidu](http://baidu.com/)
++ [AltaVista](http://www.alvista.com/)
++ [Teoma](http://www.teoma.com/)
++ [alltheweb](http://www.alltheweb.com)
++ [Ask](http://www.ask.com/)
++ [Askjeeves](http://www.askjeeves.com)
++ [Archive](https://archive.org/)
 
 #### Một số máy tìm kiếm liên thông (Tìm khoảng 10% kết quả trên các cỗ máy tìm kiếm mà họ liên kết):
 + [SurfWax](http://www.surfwax.com)
 + [Ixquick](https://www.startpage.com/)
 + [Metacrawler](http://www.metacrawler.com)
+
+#### Một số cỗ máy tìm kiếm của Việt Nam
++ [Tìm nhanh](http://timnhanh.com/)
++ [Monava](http://www.monava.vn/)
+#### Cổng thông tin (Gateway)
++ [ELDIS](http://www.eldis.org/)
++ [Thư viện ảo trên mạng](http://www.vlib.org/): Là thư viện lâu đời nhất trên Internet do Tim Berners-Lee, người phát minh ra World Wide Web xây dựng.
++ [Social Science Information Gateway](http://www.sosig.ac.uk/)
++ [Yahoo! directory](http://dir.yahoo.com/)
+#### Các trang web ẩn 
+ Là những CSDL mà tất cả mọi người đều có thể truy cập ngoại trừ robot tìm kiếm:
+ + [Librarians Index](http://lii.org/)
+ + [AcademicInfo](http://academicinfo.net/)
+ + [Infomine](http://infomine.ucr.edu/)
+#### kỹ thuật tìm kiếm
+  <object data="/Documents/GoogleCheatSheet.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="/Documents/GoogleCheatSheet.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/Documents/GoogleCheatSheet.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 #### Phát triển ngân hàng tư liệu của bản thân
 Có nhiều cách để lưu lại các địa chỉ web hữu ích để tạo ngân hàng dữ liệu/cổng thông tin cá nhân bằng cách tổ chức thông tin theo một trật tự logic, phân loại
