@@ -5,6 +5,7 @@
 + Computer software = language in which a computer speaks
 
 ### Table of content
+* [Information Resource](#information-resource)
 * [Radar](#radar)
 * [Continuous integration](#continuous-integration)
 * [Disassembly](#disassembler)
@@ -101,6 +102,14 @@
 * [Web Server](#build-your-own-web-server)
 * [Uncategorized](#uncategorized)
 
+## Information Resource
+* [Mạng liên kết thông tin khoa học và công nghệ TPHCM](http://www.stinet.gov.vn)
+* [OER Commons](https://www.oercommons.org/)
+* [Báo cáo khoa học kỹ thuật của Bộ Thương mại Hoa Kỳ](https://ntrl.ntis.gov/)
+* [UN-ILibrary](https://www.un-ilibrary.org/) - Thư viện điện tử của Liên Hợp Quốc
+* [ITU-ILibrary](https://www.itu-ilibrary.org/) - Thư viện điện tử của  Liên minh Viễn thông quốc tế
+* [Thư viện điện tử của Ngân hàng Thế giới](https://elibrary.worldbank.org/)
+* [Paris Tech](https://www.paristech.org/)
 ## Tutorials
 #### Radar
 + https://github.com/thoughtworks/build-your-own-radar
