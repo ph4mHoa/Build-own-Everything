@@ -5,6 +5,7 @@
 + Computer software = language in which a computer speaks
 
 ### Table of content
+* [Tìm kiếm thông tin trên Internet](#tìm-kiếm-thông-tin-trên-internet)
 * [Information Resource](#information-resource)
 * [Radar](#radar)
 * [Continuous integration](#continuous-integration)
@@ -102,7 +103,7 @@
 * [Web Server](#build-your-own-web-server)
 * [Uncategorized](#uncategorized)
 
-### Tìm kiếm thông tin trên Internet
+## Tìm kiếm thông tin trên Internet
 
 #### Một số máy tìm kiếm:
 + [Google]()
