@@ -197,6 +197,12 @@ theo thư mục, chủ đề:
   + [BioMed Central](https://www.biomedcentral.com/)
   + [CancerData​​](https://www.cancerdata.org/)
 * Các trang web truy cập miễn phí tài liệu hữu ích:
+  + [Ấn phẩm khoa học](http://www.freefullpdf.com/#gsc.tab=0&gsc.q=programming&gsc.sort=)
+  + [Tạp chí miễn phí của Taylor & Francis](https://www.tandfonline.com/action/doSearch?AllField=programming)
+  + [Cổng thông tin toàn cầu về các nguồn thông tin khoa học trên các cơ sở dữ liệu quốc gia và quốc tế](https://worldwidescience.org/)
+  + [CSDL Luận văn miễn phí của ĐH Mahatma Ganhi](http://www.mgutheses.org/)
+  + [Diễn đàn điện, điện tử khoa Điện-Điện tử - Trường Đại học Nha Trang](http://electric.forumvi.com/)
+  + [IT Ebook](http://www.it-ebooks.com/)
 
 
 ## Tutorials
