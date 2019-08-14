@@ -162,7 +162,15 @@ theo thư mục, chủ đề:
 
 ### Internet
 
-## Information Resource
+## Information Resource 
+* [Thư viện Quốc hội Hoa Kỳ](https://www.loc.gov)
+* [Thư viện trường Đại học Công Nghệ TP.Hồ Chí Minh](http://lib.hutech.edu.vn/SitePages/home.aspx)
+* [Thư viện Trung tâm ĐHQG-HCM](http://www.vnulib.edu.vn/)
+* [Thư viện trường Đại học Bách Khoa TP.Hồ Chí Minh](http://www.lib.hcmut.edu.vn/)
+* [Thư viện trường Đại học Kinh tế TP.HCM](http://www.lib.ueh.edu.vn/)
+* [Thư viện trường Đại học giao thông vận tải](http://thuvien.ut.edu.vn/)
+* [Thư viện Trường ĐH Khoa học Tự nhiên](http://gralib.hcmuns.edu.vn/opac/simpleSearch_khtn_index.jsp)
+* [Nguồn học liệu mở ĐẠI HỌC QUỐC GIA HÀ NỘI](http://repository.vnu.edu.vn/)
 * [Mạng liên kết thông tin khoa học và công nghệ TPHCM](http://www.stinet.gov.vn)
 * [OER Commons](https://www.oercommons.org/)
 * [Báo cáo khoa học kỹ thuật của Bộ Thương mại Hoa Kỳ](https://ntrl.ntis.gov/)
@@ -184,13 +192,10 @@ theo thư mục, chủ đề:
 * [Thư viện số chuyên về Luận án MIT](https://dspace.mit.edu/)
 * [Patent Search](http://patft.uspto.gov/)
 * [Patent Google Search](https://patents.google.com/)
-* [Thư viện trường Đại học Công Nghệ TP.Hồ Chí Minh](http://lib.hutech.edu.vn/SitePages/home.aspx)
-* [Thư viện Trung tâm ĐHQG-HCM](http://www.vnulib.edu.vn/)
-* [Thư viện trường Đại học Bách Khoa TP.Hồ Chí Minh](http://www.lib.hcmut.edu.vn/)
-* [Thư viện trường Đại học Kinh tế TP.HCM](http://www.lib.ueh.edu.vn/)
-* [Thư viện trường Đại học giao thông vận tải](http://thuvien.ut.edu.vn/)
-* [Thư viện Trường ĐH Khoa học Tự nhiên](http://gralib.hcmuns.edu.vn/opac/simpleSearch_khtn_index.jsp)
-* [Nguồn học liệu mở ĐẠI HỌC QUỐC GIA HÀ NỘI](http://repository.vnu.edu.vn/)
+* Cơ sở dữ liệu về tạp chí chuyên ngành Y/Sinh học:
+  + [Bioline International](http://www.bioline.org.br/)
+  + [BioMed Central](https://www.biomedcentral.com/)
+  + [CancerData​​](https://www.cancerdata.org/)
 * Các trang web truy cập miễn phí tài liệu hữu ích:
 
 
