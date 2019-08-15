@@ -4,7 +4,7 @@
 
 + Computer software = language in which a computer speaks
 + Toán rời rạc là gốc rễ của Khoa học máy tính. Và toán học rời rạc không chỉ tính toán trong phạm vi các lĩnh vực khoa học mà còn có thể tính toán và định lượng những yếu tố vô
- hình có thể ảnh hưởng đến lợi ích con người trong phân tích rủi ro kinh tế về mặt thời gian, phân tích tạo sinh,... 
+ hình có thể ảnh hưởng đến lợi ích con người trong phân tích rủi ro kinh tế về mặt thời gian, phân tích tạo sinh, xác xuất thống kê phần vô hình,... 
   + [Introductory Discrete Mathematics for Computer Science](https://en.wikiversity.org/wiki/Introductory_Discrete_Mathematics_for_Computer_Science)
 ### Table of content
 * [Tìm kiếm thông tin trên Internet](#tìm-kiếm-thông-tin-trên-internet)
