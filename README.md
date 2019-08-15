@@ -3,6 +3,7 @@
    ![](/Images/Donald-Knuth.png)
 
 + Computer software = language in which a computer speaks
++ Toán rời rạc là gốc rễ của Khoa học máy tính. Mọi thứ trong khoa học Công nghệ đều được xuất phát từ đó.
 
 ### Table of content
 * [Tìm kiếm thông tin trên Internet](#tìm-kiếm-thông-tin-trên-internet)
