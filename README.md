@@ -165,6 +165,18 @@ theo thư mục, chủ đề:
 
 ## Information Resource 
 * [Thư viện Quốc hội Hoa Kỳ](https://www.loc.gov)
+* [Thư viện Đại học Harvard, Mỹ](#)
+* [Thư viện Học viện Công nghệ MIT, Mỹ](#)
+* [Thư viện Học viện Công nghệ California, Mỹ](#)
+* [Thư viện Đại học Stanford, Mỹ](#)
+* [Thư viện Đại học Chicago, Mỹ](#)
+* [Thư viện Đại học Cambridge, Anh](#)
+* [Thư viện Đại học Oxford, Anh](#)
+* [Thư viện Đại học Kent, Anh](#)
+* [Thư viện Đại học King, Anh](#)
+* [Thư viện Đại học Boston, Anh](#)
+* [Thư viện học viện Công nghệ Zurich, Thụy Sĩ](#)
+* [Thư viện Đại học ShangHai, TQ](#)
 * [Thư viện trường Đại học Công Nghệ TP.Hồ Chí Minh](http://lib.hutech.edu.vn/SitePages/home.aspx)
 * [Thư viện Trung tâm ĐHQG-HCM](http://www.vnulib.edu.vn/)
 * [Thư viện trường Đại học Bách Khoa TP.Hồ Chí Minh](http://www.lib.hcmut.edu.vn/)
@@ -173,7 +185,7 @@ theo thư mục, chủ đề:
 * [Thư viện Trường ĐH Khoa học Tự nhiên](http://gralib.hcmuns.edu.vn/opac/simpleSearch_khtn_index.jsp)
 * [Nguồn học liệu mở ĐẠI HỌC QUỐC GIA HÀ NỘI](http://repository.vnu.edu.vn/)
 * [Mạng liên kết thông tin khoa học và công nghệ TPHCM](http://www.stinet.gov.vn)
-* [OER Commons](https://www.oercommons.org/)
+* [Open Educational Resources Commons](https://www.oercommons.org/)
 * [Báo cáo khoa học kỹ thuật của Bộ Thương mại Hoa Kỳ](https://ntrl.ntis.gov/)
 * [UN-ILibrary](https://www.un-ilibrary.org/) - Thư viện điện tử của Liên Hợp Quốc
 * [ITU-ILibrary](https://www.itu-ilibrary.org/) - Thư viện điện tử của  Liên minh Viễn thông quốc tế
@@ -197,6 +209,8 @@ theo thư mục, chủ đề:
   + [Bioline International](http://www.bioline.org.br/)
   + [BioMed Central](https://www.biomedcentral.com/)
   + [CancerData​​](https://www.cancerdata.org/)
+* [Nguồn học liệu OpenLearn](https://www.open.edu/openlearn/) 
+* [Tìm kiếm CSDL mở](http://v2.sherpa.ac.uk/opendoar/)
 * Các trang web truy cập miễn phí tài liệu hữu ích:
   + [Ấn phẩm khoa học](http://www.freefullpdf.com/#gsc.tab=0&gsc.q=programming&gsc.sort=)
   + [Tạp chí miễn phí của Taylor & Francis](https://www.tandfonline.com/action/doSearch?AllField=programming)
