@@ -4,7 +4,7 @@
 
 + Computer software = language in which a computer speaks
 + Toán rời rạc là gốc rễ của Khoa học máy tính. 
-
+  + [Introductory Discrete Mathematics for Computer Science](https://en.wikiversity.org/wiki/Introductory_Discrete_Mathematics_for_Computer_Science)
 ### Table of content
 * [Tìm kiếm thông tin trên Internet](#tìm-kiếm-thông-tin-trên-internet)
 * [Information Resource](#information-resource)
@@ -202,6 +202,7 @@ theo thư mục, chủ đề:
   + [FUTURE LEARN](https://www.futurelearn.com/)
   + [Openstax](https://openstax.org/subjects)
   + [Tạp chí khoa học Việt Nam Trực tuyến](http://www.vjol.info/index.php/index/about/)
+* [Wikiversity](https://en.wikiversity.org/wiki/Wikiversity:Main_Page)
 * [Thư viện số chuyên về Luận án MIT](https://dspace.mit.edu/)
 * [Patent Search](http://patft.uspto.gov/)
 * [Patent Google Search](https://patents.google.com/)
