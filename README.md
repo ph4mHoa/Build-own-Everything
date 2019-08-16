@@ -805,7 +805,8 @@ Application server là một hệ thống cung cấp môi trường thực thi c
 * [Nguyên lý hoạt động của CNN](http://brohrer.github.io/how_convolutional_neural_networks_work.html)
 
 #### Build your own `Operating System`
-
+* [**Assembly**: _How to write a simple operating system in assembly language_](http://mikeos.sourceforge.net/write-your-own-os.html)
+* [**C++**: _Write your Own Virtual Machine_](https://justinmeiners.github.io/lc3-vm/)
 * [**Assembly**: _Writing a Tiny x86 Bootloader_](http://joebergeron.io/posts/post_two.html)
 * [**Assembly**: _Baking Pi – Operating Systems Development_](http://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/index.html)
 * [**C**: _Building a software and hardware stack for a simple computer from scratch_](https://www.youtube.com/watch?v=ZjwvMcP3Nf0&list=PLU94OURih-CiP4WxKSMt3UcwMSDM3aTtX) [video]
@@ -884,11 +885,13 @@ Application server là một hệ thống cung cấp môi trường thực thi c
 * [**Rust**: _So You Want to Build a Language VM_](https://blog.subnetzero.io/post/building-language-vm-part-00/)
 * [**Swift**: _Building a LISP from scratch with Swift_](https://www.uraimo.com/2017/02/05/building-a-lisp-from-scratch-with-swift/)
 * [**68 Resources To Help You To Create Programming Languages**](https://tomassetti.me/resources-create-programming-languages/)
-* [** **]():
-* [** **]():
-* [** **]():
-* [** **]():
-* [** **]():
+* [**Javascript**: _Make your own Assembler simulator in JavaScript (Part 1)
+_](https://www.mschweighauser.com/make-your-own-assembler-simulator-in-javascript-part1/)
+* [**Javascript**: _Make your own Assembler simulator in JavaScript (Part 2)
+_](https://www.mschweighauser.com/make-your-own-assembler-simulator-in-javascript-part-2/)
+* [**C**: _Write your own C compiler_](http://www.programmersought.com/article/5245290173/;jsessionid=6A5F8E854AD061490FEE9EA7671FA9B1)
+* [**C**: _Write your own C compiler_](http://www.programmersought.com/article/6489290127/;jsessionid=137280DFD409A3A710A2F1B8BD8321A1)
+* [**Building SIML: A new markup language**](https://j11y.io/css/building-siml-a-new-markup-language/)
 
 #### Build your own `Regex Engine`
 
