@@ -7,8 +7,6 @@
  hình có thể ảnh hưởng đến lợi ích con người trong phân tích rủi ro kinh tế về mặt thời gian, phân tích tạo sinh, xác xuất thống kê phần vô hình,... 
   + [Introductory Discrete Mathematics for Computer Science](https://en.wikiversity.org/wiki/Introductory_Discrete_Mathematics_for_Computer_Science)
 ### Table of content
-- [Build your own everything](#Build-your-own-everything)
-  - [Table of content](#Table-of-content)
 - [Tìm kiếm thông tin trên Internet](#T%C3%ACm-ki%E1%BA%BFm-th%C3%B4ng-tin-tr%C3%AAn-Internet)
     - [Một số máy tìm kiếm:](#M%E1%BB%99t-s%E1%BB%91-m%C3%A1y-t%C3%ACm-ki%E1%BA%BFm)
     - [Một số máy tìm kiếm liên thông (Tìm khoảng 10% kết quả trên các cỗ máy tìm kiếm mà họ liên kết):](#M%E1%BB%99t-s%E1%BB%91-m%C3%A1y-t%C3%ACm-ki%E1%BA%BFm-li%C3%AAn-th%C3%B4ng-T%C3%ACm-kho%E1%BA%A3ng-10-k%E1%BA%BFt-qu%E1%BA%A3-tr%C3%AAn-c%C3%A1c-c%E1%BB%97-m%C3%A1y-t%C3%ACm-ki%E1%BA%BFm-m%C3%A0-h%E1%BB%8D-li%C3%AAn-k%E1%BA%BFt)
@@ -840,12 +838,12 @@ Application server là một hệ thống cung cấp môi trường thực thi c
 
 #### Build your own `Programming Language`
 * [Design own Hardware](https://www.whoishostingthis.com/resources/vhdl/)
-+ [Create own VHDL Language](http://que.no/index.php/2017/07/03/uvvm-tutorial/)
+* [Create own VHDL Language](http://que.no/index.php/2017/07/03/uvvm-tutorial/)
 * [Build Your Own Lisp](http://www.buildyourownlisp.com/contents)
 * [GCC, the GNU Compiler Collection](https://www.gnu.org/software/gcc/)
 * [LLVM Compiler Infrastructure](http://www.llvm.org/)
-* [Clang: a C language family frontend for LLVM](https://clang.llvm.org/)
-* [MSVC - Microsoft Visual C++](https://clang.llvm.org/docs/MSVCCompatibility.html)
+* [**Clang**: _A C language family frontend for LLVM_](https://clang.llvm.org/)
+* [_MSVC - Microsoft Visual C++_](https://clang.llvm.org/docs/MSVCCompatibility.html)
 * [**(any)**: _mal - Make a Lisp_](https://github.com/kanaka/mal#mal---make-a-lisp)
 * [**Assembly**: _Jonesforth_](https://github.com/nornagon/jonesforth/blob/master/jonesforth.S)
 * [**C**: _Baby's First Garbage Collector_](http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)
